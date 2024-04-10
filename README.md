@@ -6,5 +6,6 @@ Project1 Test Cases and Test Plan for App.vwo
 
 #Project Details
 
-Project Name | Description | Tools Used
-App.vwo| Tested the login module | Test plan and excel sheet
+|Project Name | Description | Tools Used |
+|-------------|-------------|------------|
+|App.vwo | Tested the login module | Test plan and excel sheet |
